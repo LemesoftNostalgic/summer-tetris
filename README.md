@@ -7,6 +7,9 @@ an CPU-optimized ik_llama.cpp in an Intel Core Ultra 7 laptop, 32GB RAM.
 
 The output token speed was approximately 15 tok/s.
 
+[Link to the Game](https://lemesoftnostalgic.github.io/summer-tetris/tetris.html)
+
 ## Prompt used
 
 Please create a single file tetris.html which contains a tetris-style game, but a bigger selection of tiles and spring colors.
+
